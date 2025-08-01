@@ -215,7 +215,7 @@ def genetic_algorithm_packing(items, capacity, max_time):
 #######################################################################
 if __name__ == "__main__":
     INPUT_FILE = 'CW_ins.json'
-    OUTPUT_FILE = '20509703_Mithilesh_Tew.json'
+    OUTPUT_FILE = 'solution.json'
     TIME_LIMIT = 300.0
     
     # Read problem instances
