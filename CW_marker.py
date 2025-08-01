@@ -6,7 +6,7 @@ def read_json(json_file_path):
     return instances
 
 instances = read_json("CW_ins.json")
-solution = read_json("123456_xinan_chen.json")
+solution = read_json("solution.json")
 best_known = [
     52,
     59,
