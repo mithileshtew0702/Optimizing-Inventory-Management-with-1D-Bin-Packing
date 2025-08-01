@@ -93,3 +93,16 @@ This problem is **NP-hard**, which means exact solutions are impractical for lar
 ## 📌 Declaration of AI Usage
 
 > This project used AI assistance (ChatGPT) for coding support and report writing under declared guidelines.
+
+---
+
+## 🧾 Lecturer Feedback
+
+**Solution (30):** 33  
+**Code (30):** 25  
+**Note:**  
+**Comment:** Outstanding (21-30) near perfect design of program/data structure. Variables/functions formats are excellently named and chosen. Excellent balance of brievty and clarity in comments.  
+
+**Report (40):** 33  
+**Note:** zip file uploaded, -5  
+**Comment:** This is an exemplary report: it is exceptionally well-structured, uses precise academic language, and covers all required elements with technical clarity and professional presentation. The introduction defines the problem, its mathematical foundation, and strong real-world relevance with clear referencing. Methodology is highly detailed and justified, clearly explaining hybrid approaches, encoding strategies, parameter choices, and technical implementation. Results are benchmarked, tabulated, and analyzed, with clear critical comparison between methods and genuine reflection on strengths and limitations. Conclusions are concise, insightful, and forward-looking, with ambitious, practical recommendations. Overall, this is a top-band submission demonstrating technical depth, originality, and excellent academic standards.
